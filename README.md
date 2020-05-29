@@ -1,5 +1,4 @@
 # Kaggle_NLP
-Based on Kaggle NLP Micro Course
 
 Kaggle - Natural Language Processing
 
